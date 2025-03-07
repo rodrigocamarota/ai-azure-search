@@ -10,8 +10,6 @@ Resolvi explorar o Azure AI Search, uma solução de pesquisa como serviço da M
 ### 1. Criar o Serviço Azure AI Search
 - Acessei o [portal do Azure](https://portal.azure.com) e fiz login.
 - Cliquei em **"Criar um recurso"**, busquei **"Azure AI Search"** e selecionei o tier **Gratuito (Free)** para testes.
-- Escolhi a localização mais próxima para melhor desempenho e criei um grupo de recursos chamado `search-resources`.
-- Finalizei clicando em **"Revisar + Criar"** e, após verificar, em **"Criar"**.
 
 ### 2. Criar um Índice
 - No serviço criado, fui em **"Índices"** e cliquei em **"Adicionar índice"**.
